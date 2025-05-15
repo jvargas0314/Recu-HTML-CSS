@@ -1,0 +1,54 @@
+.comentaris {
+  margin-top: 3em;
+  padding: 1em;
+  background-color: #f2f2f2;
+  border-radius: 8px;
+}
+
+.comentaris h2 {
+  margin-bottom: 1em;
+  color: #333;
+}
+
+.comentari {
+  background-color: #fff;
+  padding: 1em;
+  border-radius: 5px;
+  margin-bottom: 1em;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+  
+.comentari h3 {
+  margin: 0 0 0.5em;
+  font-size: 1em;
+  color: #555;
+}
+
+.anbernic{
+  width: 40%;
+  margin: auto; 
+}
+
+
+.title{
+    
+  color: #fff;
+}
+
+h1{
+  text-align: center;
+}
+
+ul{
+  list-style: none;
+  text-align: center;
+}
+
+li{
+  text-align: center;
+}
+
+p{
+  text-align: justify;
+  padding-left: 1.3cm;
+}
